@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Chatooth</string>
+    <string name="create">Stwórz serwer</string>
+    <string name="join">Dołącz do serwera</string>
+    <string name="placeholder">Komunikat</string>
+    <string name="title">Urządzenia</string>
+    <string name="search">Szukaj urządzeń</string>
+    <string name="show">Pokaż sparowane</string>
+    <string name="connect">Połącz</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="bar_height">60dp</dimen>
+    <dimen name="app_name_size">24sp</dimen>
+    <dimen name="text_size1">16sp</dimen>
+    <dimen name="kafelek_margin">20dp</dimen>
+    <dimen name="linear_button_height">60dp</dimen>
+    <dimen name="text_size2">12sp</dimen>
+
+</resources>
